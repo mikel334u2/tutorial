@@ -1,2 +1,2 @@
 # tutorial
-This is my entry point to Git and GitHub.
+This is my entry point to Git and GitHub. Hello World!
